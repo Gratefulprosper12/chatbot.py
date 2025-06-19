@@ -1,0 +1,1 @@
+CryptoBuddy mimics AI by mapping user inputs to preset logic. It evaluates sustainability, trends, and profitability using conditional statements. This simulates decision-making without real intelligence, allowing users to get tailored suggestions based on keywords. It’s a practical intro to logic-based automation in real-world contexts.
